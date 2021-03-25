@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{07240668-3871-4BC5-8928-90776CE3E272}|Default">
+  <MonoDevelop.Ide.ItemProperties.Stopwatch FirstBuild="True" PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stopwatch/ViewController.cs">
+    <Files>
+      <File FileName="Stopwatch/AppDelegate.cs" Line="11" Column="10" />
+      <File FileName="Stopwatch/ViewController.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stopwatch" expanded="True">
+            <Node name="Stopwatch" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

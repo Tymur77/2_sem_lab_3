@@ -1,0 +1,13 @@
+/Users/viktoria/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/viktoria/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/viktoria/Projects/Calculator/Calculator/obj/Debug/Calculator.pdb

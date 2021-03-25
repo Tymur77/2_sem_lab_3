@@ -1,0 +1,14 @@
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389666.2 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="5" unmodchars="5" repeat=0 keyCode=23
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389666.3 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="6" unmodchars="6" repeat=0 keyCode=22
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389667.0 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="," unmodchars="," repeat=0 keyCode=43
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389667.5 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="7" unmodchars="7" repeat=0 keyCode=26
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389667.7 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="7" unmodchars="7" repeat=0 keyCode=26
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389668.9 flags=0x20102 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="*" unmodchars="*" repeat=0 keyCode=28
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389672.3 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="2" unmodchars="2" repeat=0 keyCode=19
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389673.0 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="=" unmodchars="=" repeat=0 keyCode=24
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389684.4 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="/" unmodchars="/" repeat=0 keyCode=44
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389685.2 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="2" unmodchars="2" repeat=0 keyCode=19
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389686.3 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="=" unmodchars="=" repeat=0 keyCode=24
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389689.1 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="/" unmodchars="/" repeat=0 keyCode=44
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389689.6 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="0" unmodchars="0" repeat=0 keyCode=29
+NSEvent: type=KeyDown loc=(73.2656,197.43) time=389691.1 flags=0x100 win=0x7fd179c201b0 winNum=63456 ctxt=0x0 chars="=" unmodchars="=" repeat=0 keyCode=24

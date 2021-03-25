@@ -1,0 +1,13 @@
+/Users/viktoria/Projects/Stopwatch/Stopwatch/bin/Debug/Stopwatch.exe
+/Users/viktoria/Projects/Stopwatch/Stopwatch/bin/Debug/Stopwatch.pdb
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/actool/_PartialAppManifest.items
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/Stopwatch.csprojAssemblyReference.cache
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/Stopwatch.exe
+/Users/viktoria/Projects/Stopwatch/Stopwatch/obj/Debug/Stopwatch.pdb
