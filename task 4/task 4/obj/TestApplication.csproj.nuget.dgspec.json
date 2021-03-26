@@ -14,7 +14,7 @@
         "outputPath": "/Users/viktoria/Projects/lab 3/task 4/task 4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/viktoria/.config/NuGet/NuGet.Config"
+          "/Users/viktoria/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

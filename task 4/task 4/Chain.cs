@@ -102,7 +102,7 @@ namespace TestApplication
 
         private void LaunchNext()
         {
-            if (row >= SPACING + 2)
+            if (row >= 1 + SPACING + 1)
             {
                 next.Print();
             }
